@@ -6,8 +6,8 @@
 **About Me:**  
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumindaKuruppu&theme=dracula&hide_langs_below=1" />
 - 🔭 I’m a 4th year CS undergraduate at Uva Wellassa University of Sri Lanka;
-- 🌱 I’m currently learning Web & Mobile app development;
-- 💬 Ask me about anything, i am happy to help;
+- 🌱 I’m currently learning Web & Mobile development;
+- 💬 Ask me about anything, I am happy to help;
 - 📫 [Twitter - @DumiyaKuruppuwa](https://twitter.com/DumiyaKuruppuwa)
 - 📫 [LinkedIn - duminda-kuruppu](https://www.linkedin.com/in/duminda-kuruppu/)
 <br>
