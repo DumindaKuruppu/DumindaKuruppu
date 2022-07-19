@@ -8,8 +8,8 @@
 - 🔭 I’m a 4th year CS undergraduate at Uva Wellassa University of Sri Lanka;
 - 🌱 I’m currently learning Web & Mobile app development;
 - 💬 Ask me about anything, i am happy to help;
-- 📫 How to reach me: [Twitter - @DumiyaKuruppuwa](https://twitter.com/DumiyaKuruppuwa) , [Linkedin - duminda-kuruppu](https://www.linkedin.com/in/duminda-kuruppu/)
-- ⚡ Fun fact: Music 🎼 + Memes = 😄
+- 📫 Twitter - @DumiyaKuruppuwa](https://twitter.com/DumiyaKuruppuwa)
+- 📫 LinkedIn - duminda-kuruppu](https://www.linkedin.com/in/duminda-kuruppu/)
 <br>
 
 **Languages and Tools:**   
